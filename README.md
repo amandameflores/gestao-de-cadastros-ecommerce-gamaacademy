@@ -1,3 +1,17 @@
+# Hiring Coders - Gama Academy
+
+## Desafio 2# - Gestão de Cadastros
+
+### 2° Entrega - Gestão de Cadastros
+- Criação de um sistema e-commerce para inventário de produtos e dados de clientes:
+
+#### Entregáveis:
+
+- [x] Os dados de clientes, endereços e produtos devem estar devidamente estruturados;
+- [x] Dados no localstorage;
+- [x] Código fonte no github com o arquivo README detalhando as funcionalidades da programação;
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -21,7 +21,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
     "eject": "react-scripts eject",
     "server": "json-server server.json -w -p 8888"
   },
@@ -39,8 +39,7 @@
     ],
     "development": [
       "last 1 chrome version",
-      "last 1 firefox version",
-   omponents": "^5.1.11",
-    "json-server": "^0.16.3"
+      "last 1 firefox version"
+    ]
   }
 }

@@ -11,6 +11,10 @@
 - [x] Dados no localstorage;
 - [x] Código fonte no github com o arquivo README detalhando as funcionalidades da programação;
 
+### Link do projeto:
+
+https://xenodochial-raman-81ad4f.netlify.app/
+
 
 # Getting Started with Create React App
 

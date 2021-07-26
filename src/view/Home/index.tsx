@@ -16,7 +16,7 @@ const Home: React.FC = () => {
     const cart = localStorage.getItem('@cart');
     if (cart)
       setCart(JSON.parse(cart));
-  }, []);
+  }, undefined);
 
   useEffect(() => {
     if (cart.length > 0) {

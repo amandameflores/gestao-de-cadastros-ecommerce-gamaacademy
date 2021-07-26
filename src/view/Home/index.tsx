@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import React, { useState, useEffect } from 'react';
 
 import Cart from '../../assets/cart.png'
@@ -16,7 +17,7 @@ const Home: React.FC = () => {
     const cart = localStorage.getItem('@cart');
     if (cart)
       setCart(JSON.parse(cart));
-  }, undefined);
+  }, []);
 
   useEffect(() => {
     if (cart.length > 0) {
